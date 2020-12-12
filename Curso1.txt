@@ -1,0 +1,16 @@
+- Para que serve um banco de dados?
+Gerenciar os dados para mostrar de forma amigavél para o frontend.
+
+Arquitetura de Softuare Padrão MVC
+View - html, jquery, js (user)
+controler - java, php, c, ruby (processamento)
+model - classes/modelo (tabelas dos bancos)
+
+- Como surge um BD?
+Demanda por organização, facilidade, segurança.
+(ver cadatro dos clientes)
+Precisar modelar um sistema, criar, tem que haver um BD para armazenar os dados
+
+Criar o banco:
+- requisitos/necessidades (quais dados)
+Escopo: Onde começa e onde termina ($$)
